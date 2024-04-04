@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# TODO-MACHINE
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Demo project of a task list with react
+
+STATUS: FINALIZED
 
 ## Available Scripts
 
